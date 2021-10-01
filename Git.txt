@@ -37,5 +37,7 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 
 16.To see commits alongwith Changes : git log -p
 
+17.To see commit in a consise way: git log --stat
+
 
 
