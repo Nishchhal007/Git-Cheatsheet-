@@ -1,5 +1,5 @@
 Auther: Nishchhal Pachouri
-
+OS : Windows(64-bit)
 
 1.status : git status
 
