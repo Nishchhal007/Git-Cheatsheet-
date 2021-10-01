@@ -1,0 +1,41 @@
+Auther: Nishchhal Pachouri
+
+
+1.status : git status
+
+2.initilize git repository : git init
+
+3.to add files in staging area : git add file name
+
+4.to commit file : git commit -m "change description"
+
+5.to add all the files in staging area : git add --a/git add .
+
+6.initilize git repository : git init
+
+7.to del git repository : rm -rf .git
+
+8.to create new file : touch file.extension
+
+9.to ignore file : first create .gitignore file
+wirte the name of the file u wannt to ignore
+
+->if u want to ignore some specific extension files 
+then :-> write *.extension the files u want to ignore(foe eg : *.log)
+
+10.diff betn wd &staging area : git diff
+
+11.Diff betn staging area and previous commit : git diff --staged
+
+12.To commit all tracked files by skipping the staging area : git commit -a -m "change description"
+
+13.to remove any file : git rm file_name.extension
+
+14.To rename any file : git mv old_name.extension new_name.extension
+
+15.To untrack any file : git rm --cached
+
+16.To see commits alongwith Changes : git log -p
+
+
+
