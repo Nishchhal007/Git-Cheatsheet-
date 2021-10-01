@@ -35,9 +35,15 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 
 15.To untrack any file : git rm --cached
 
-16.To see commits alongwith Changes : git log -p
+16.To see all commits alongwith Changes : git log -p
 
-17.To see commit in a consise way: git log --stat
+17.To see all commits with Changes in a consise way: git log --stat
+  
+18.To see commits in one line : git log --pretty=oneline
 
+19.To see commit with author and description : git log --pretty=short
+
+20.To see commit with author and commiter : git log --pretty=full 
+  
 
 
