@@ -49,6 +49,21 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 21.To see commit by adding time filters : git log --since=2.(days/weeks/months/years)
 
 22.To see previous n commit : git log -p -(n)
-  
+ 
+23.To unstage any file : git restore --staged <fileName>
+
+24.Unmodify file & go to previous commit : git checkout -- <fileName>
+
+ 
+
+
+
+
+
+
+
+
+
+
 
 
