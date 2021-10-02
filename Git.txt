@@ -45,9 +45,9 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 
 20.To see commit with author and commiter : git log --pretty=full 
 
-21.To see commit by adding time filters : git log --since=2.(days/weeks/months)
+21.To see commit by adding time filters : git log --since=2.(days/weeks/months/years)
 
-22.  
+22.To see previous commit by indexes : git log -p -(last 1/2/3/4 commit)
   
 
 
