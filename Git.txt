@@ -1,5 +1,6 @@
 Author: Nishchhal Pachouri
 OS : Windows(64-bit)
+School : SOE
 
 1.Status : git status
 
@@ -47,7 +48,7 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 
 21.To see commit by adding time filters : git log --since=2.(days/weeks/months/years)
 
-22.To see previous commit by indexes : git log -p -(last 1/2/3/4 commit)
+22.To see previous n commit : git log -p -(n)
   
 
 
