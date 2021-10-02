@@ -54,6 +54,12 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 
 24.Unmodify file & go to previous commit : git checkout -- <fileName>
 
+25.Go to the previous commit with all files : git checkout -f
+
+26.setting alias in git : git config --global alias.<alias name> <Setting alias for>
+     
+    for eg . : git config --global alias.st status
+
  
 
 
