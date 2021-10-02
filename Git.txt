@@ -59,6 +59,11 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 26.setting alias in git : git config --global alias.<alias name> <Setting alias for>
      
     for eg . : git config --global alias.st status
+             
+             :git config --global alias.unstage 'restore --staged --'
+
+27.
+
 
  
 
