@@ -62,7 +62,13 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
              
              :git config --global alias.unstage 'restore --staged --'
 
-27.
+27.To make a new Branch : git checkout -b <New_Branch_Name>
+
+28.Switch Branches : git checkout branch_name
+
+29.To merge any Branch : git merge branch_name
+
+30.
 
 
  
