@@ -83,7 +83,7 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 
 34.To see git remote : git remote -v
 
- 
+35. To push branch on github :  git push origin <Branch_name>
 
 
 
