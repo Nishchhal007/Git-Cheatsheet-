@@ -81,7 +81,8 @@ then :-> write *.extension the files u want to ignore(foe eg : *.log)
 
 33.To delete branch : git branch -d <Branch_name>
 
-34.
+34.To see git remote : git remote -v
+
  
 
 
